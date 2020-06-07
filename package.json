@@ -1,0 +1,26 @@
+{
+  "name": "mioc",
+  "version": "0.1.0",
+  "description": "Micro IoC framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxkomarychev/mioc.git"
+  },
+  "keywords": [
+    "ioc",
+    "inversion-of-control",
+    "dependency-injection",
+    "decorator",
+    "decorators"
+  ],
+  "author": "Maksym Komarychev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxkomarychev/mioc/issues"
+  },
+  "homepage": "https://github.com/maxkomarychev/mioc#readme"
+}
