@@ -1,6 +1,6 @@
 {
   "name": "mioc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A zero dependency micro IoC framework",
   "main": "index.js",
   "scripts": {
