@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha --require @babel/register"
   },
+  "files": [
+    "index.js",
+    "src"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maxkomarychev/mioc.git"
